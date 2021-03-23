@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  Projects&Shifts
+
+  Created by mr_aNalogman on 3/20/20.
+  Copyright © 2020 mr_aNalogman. All rights reserved.
+*/
+
+"h." = "ч.";
+
+"hour" = "час";
+
+"hours" = "часов";
+
+"houra" = "часа";
+
+"no" = "нет";
+
+"move" = "переезд";
+
+"Move" = "Переезд";
+
+"MM.dd.yyyy h:mm a" = "dd.MM.yyyy HH:mm";
+
+"MMMM dd yyyy h:mm a" = "dd MMMM yyyy HH:mm";
+
+"MMMM dd yyyy" = "dd MMMM yyyy";
+
+"h:mm a" = "HH:mm";
+
+"Amount: " = "Итого: ";
+
+"Rate: " = "Ставка: ";
+
+"Time: " = "Время: ";
+
+"Processing: " = "Переработка: ";
+
+"Dinner: " = "Текущий обед: ";

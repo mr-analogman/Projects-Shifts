@@ -1,0 +1,73 @@
+
+/* Class = "UINavigationItem"; title = "Проекты"; ObjectID = "0nc-uP-BaN"; */
+"0nc-uP-BaN.title" = "Проекты";
+
+/* Class = "UITableViewSection"; headerTitle = "длительность смены"; ObjectID = "2mh-xq-KcN"; */
+"2mh-xq-KcN.headerTitle" = "длительность смены";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "3nw-Wt-43l"; */
+"3nw-Wt-43l.text" = "Title";
+
+/* Class = "UILabel"; text = "Переезд"; ObjectID = "5aK-hq-OeS"; */
+"5aK-hq-OeS.text" = "Переезд";
+
+"Nwr-Q4-1Dv.text" = "Переезд";
+
+/* Class = "UILabel"; text = "Ставка: "; ObjectID = "Bwv-2e-RRE"; */
+"Bwv-2e-RRE.text" = "Ставка: ";
+
+/* Class = "UITableViewSection"; headerTitle = "ставка переработки"; ObjectID = "CGo-bA-gha"; */
+"CGo-bA-gha.headerTitle" = "ставка переработки";
+
+/* Class = "UILabel"; text = "Переработка: "; ObjectID = "E4L-Md-t0f"; */
+"E4L-Md-t0f.text" = "Переработка: ";
+
+/* Class = "UILabel"; text = "Итого: "; ObjectID = "H1F-Hg-5Gn"; */
+"H1F-Hg-5Gn.text" = "Итого: ";
+
+/* Class = "UITableViewSection"; headerTitle = "начало смены"; ObjectID = "K3E-Mw-8VM"; */
+"K3E-Mw-8VM.headerTitle" = "начало смены";
+
+"A1B-Sv-d6p.headerTitle" = "начало смены";
+
+/* Class = "UITableViewSection"; headerTitle = "конец смены"; ObjectID = "KE9-bP-NiE"; */
+"KE9-bP-NiE.headerTitle" = "конец смены";
+
+"Iwa-OW-6ZG.headerTitle" = "конец смены";
+
+/* Class = "UINavigationItem"; title = "Новый проект"; ObjectID = "MqF-eu-4pN"; */
+"MqF-eu-4pN.title" = "Новый проект";
+
+/* Class = "UILabel"; text = "Текущий обед: "; ObjectID = "Vtk-BG-2Bp"; */
+"Vtk-BG-2Bp.text" = "Текущий обед: ";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ZkZ-8s-pXQ"; */
+"ZkZ-8s-pXQ.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Изменить"; ObjectID = "d36-9f-k1z"; */
+"d36-9f-k1z.title" = "Изменить";
+
+/* Class = "UITableViewSection"; headerTitle = "Название проекта"; ObjectID = "fn4-oX-dxK"; */
+"fn4-oX-dxK.headerTitle" = "Название проекта";
+
+/* Class = "UINavigationItem"; title = "Новая смена"; ObjectID = "jJI-2z-ajt"; */
+"jJI-2z-ajt.title" = "Новая смена";
+
+/* Class = "UITableViewSection"; headerTitle = "ставка"; ObjectID = "mBv-4g-T7r"; */
+"mBv-4g-T7r.headerTitle" = "ставка";
+
+/* Class = "UILabel"; text = "Время: "; ObjectID = "r5B-VJ-ebw"; */
+"r5B-VJ-ebw.text" = "Время: ";
+
+/* Class = "UILabel"; text = "Текущий обед"; ObjectID = "zHK-Cr-Chg"; */
+"zHK-Cr-Chg.text" = "Текущий обед";
+
+"7Uj-74-foP.text" = "Текущий обед";
+
+"u7N-h7-JPW.headerTitle" = "Название проекта";
+
+"fdt-Bp-dJ0.headerTitle" = "Ставка";
+
+"q5s-0d-86T.headerTitle" = "Ставка переработки";
+
+"dkb-kc-eYd.headerTitle" = "Длительность смены";
